@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">XOdroid</string>
+    <string name="reset">Start Over</string>
+    <string name="over">Game Over</string>
+    <string name="win">" wins!"</string>
+    <string name="draw">Draw!</string>
+    <string name="xturn">It\'s X\'s turn</string>
+    <string name="oturn">It\'s O\'s turn</string>
+    <string name="played_already">Already played. Try a different square</string>
+</resources>
